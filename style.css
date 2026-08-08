@@ -4580,3 +4580,9 @@ body {
   }
 }
 
+/* ===== FINAL MOBILE HERO SPACING ===== */
+@media (max-width: 768px) {
+    #home {
+        padding-top: 50px;
+    }
+}
