@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alecdev0.github.io/mr-genius-digital-centre/sitemap.xml
